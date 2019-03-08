@@ -1,9 +1,14 @@
 # ContenedorIAW
 
-Usuarios actualmeente existentes (usuario - contraseña): 
+Usuarios actualmente existentes de la página web (usuario - contraseña): 
 
 - user - user
 - admin - admin
+
+Usuarios actualmente existentes de la base de datos (usuario - contraseña): 
+
+- root - 123456
+- user - 2asirtriana
 
 Para arrancar el contenedor:
 (Los siguientes puertos y nombre del contenedor pueden ser modificados, pero han de ser posibles)
