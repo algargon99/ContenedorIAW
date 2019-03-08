@@ -31,3 +31,7 @@ El admin tiene la opción de manipular los datos de toda la base de datos, inclu
 - Comprar sus propios libros
 
 Ambos pueden ver los datos actuales de su perfil.
+
+La estructura de la base de datos es:
+
+![alt text](https://raw.githubusercontent.com/algargon99/PROYECTO_IAW_GARCIA_GONZALEZ/master/imagenes/Base_de_datos.png)
