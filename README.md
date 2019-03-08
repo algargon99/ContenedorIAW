@@ -10,6 +10,10 @@ Para arrancar el contenedor:
 
 **sudo docker run -it -d --name proyecto -p 8080:80 -p 3316:3306 algargon99/proyecto_iaw**
 
+Si quisieramos entrar en el contenedor:
+
+**sudo docker exec -it proyecto /bin/bash**
+
 Para poder ser visualizada, en un navegador web escribimos lo siguiente:
 (El puerto será el indicado en el anterior comando)
 
