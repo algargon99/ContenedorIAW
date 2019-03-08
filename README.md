@@ -19,6 +19,15 @@ Si quisieramos entrar en el contenedor:
 
 **sudo docker exec -it proyecto /bin/bash**
 
+Para iniciar el contenedor:
+
+**sudo docker start proyecto**
+
+Para para y borrar el contenedor, respectivamente:
+
+**sudo docker stop proyecto**
+**sudo docker rm proyecto**
+
 Para poder ser visualizada, en un navegador web escribimos lo siguiente:
 (El puerto será el indicado en el anterior comando)
 
